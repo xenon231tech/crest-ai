@@ -1,0 +1,13 @@
+{
+  "name": "crest-ai-bot",
+  "version": "1.0.0",
+  "description": "AI-powered Telegram crypto assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
